@@ -1,0 +1,3 @@
+:root {--cor-de-fundo:#ebceee}
+.body{background-color:war(--cor-de-fundo);}
+h1{background-color:snow}
